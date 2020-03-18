@@ -11,7 +11,7 @@ docs
 ├── 0-Installation.ipynb
 ├── 1-Basics.ipynb
 ├── 2-Plot.ipynb
-└── 3-Fitting.ipynb
+└── 3-Fitting.ipynb (coming soon)
 ```
 
 ## Get Started
