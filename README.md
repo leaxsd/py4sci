@@ -13,6 +13,23 @@ docs/
 └── 2-Plot.ipynb
 ```
 
+## Get Started
+
+1. Install **Anacoda** - [0-Installation](https://github.com/leaxp/py4sci/blob/master/docs/0-Installation.ipynb) 
+
+2. Download this repository: 
+   `Clone or download` green button on top-right of this page  >  `Download ZIP`
+
+3. Extract repository ZIP file
+
+4. On Terminal (Anaconda prompt for Windows) command line, inside the extracted **py4sci-master** folder
+
+   ```python
+   jupyter notebook
+   ```
+
+5. Inside **docs** explore and run the guide notebooks
+
 ## Feedback
 
 Try the guide notebooks and let me know
