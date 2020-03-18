@@ -7,10 +7,11 @@ This is a Python introduction guide target to the scientific propose. It aims to
 Inside folder **docs** you'll find all guide notebooks, as follow:
 
 ```python
-docs/
+docs
 ├── 0-Installation.ipynb
-├── 1-Read_and_write.ipynb
-└── 2-Plot.ipynb
+├── 1-Basics.ipynb
+├── 2-Plot.ipynb
+└── 3-Fitting.ipynb
 ```
 
 ## Get Started
