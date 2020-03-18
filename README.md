@@ -20,10 +20,3 @@ Try the guide notebooks and let me know
 **Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci)            :loudspeaker:
 
 **Email**: [alex.duarte@icfo.eu](mailto:alex.duarte@icfo.eu)                      :email:
-
-
-
-***
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
