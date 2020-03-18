@@ -4,7 +4,7 @@ This is a Python introduction guide target to the scientific propose. It aims to
 
 ## Index
 
-Inside folder **docs** you'll find guide notebooks, as follow:
+Inside folder **docs** you'll find all guide notebooks, as follow:
 
 ```python
 docs/
