@@ -12,10 +12,13 @@ Inside folder **docs** you'll find guide notebooks, as follow:
 
 ## Feedback
 
-This guide will continue as long as I get our feedback, so try the guide notebooks and let me know:
+Try the guide notebooks and let me know
 
-<%= octicon("megaphone", :height => 32) %> - [Telegram](https://t.me/py4sci)
+**Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci)            :loudspeaker:
+**Email**: [alex.duarte@icfo.eu](mailto:alex.duarte@icfo.eu)                      :email:
 
+# 
 
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
