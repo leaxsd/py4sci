@@ -33,7 +33,7 @@ docs
 
 ## Feedback
 
-Try the guide notebooks and let me know
+This guide will continue as long you have interest. Please, write me for questions, comments, contributions, complains, ...
 
 **Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci)            :loudspeaker:
 
