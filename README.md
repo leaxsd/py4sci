@@ -37,7 +37,7 @@ docs
 
 ## Get Involved
 
-Please don't leave alone! I would like to this to be a collaborative guide. We have different interest application to Python (plot graphs, fitting data, data mining, image analysis, ...) so please help me to complete this puzzle. Write a guide notebook contribution to add here. Send me an [email](mailto:alex.duarte@icfo.eu) with your GitHub username and I will add you as collaborator.
+Please don't leave alone! I would like to this to be a collaborative guide. We have different interest application to Python (plot graphs, fitting data, data mining, image analysis, ...) so please help me to complete this puzzle. Write a guide notebook contribution to add here. Send me an [email](mailto:alex.duarte@icfo.eu) with your GitHub username and I will add you as repository contributer.
 
 ## Feedback
 
