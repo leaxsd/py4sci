@@ -1,6 +1,10 @@
 # Python for Scientists (py4sci)
 
-This is a Python introduction guide target to the scientific propose. It aims to help my workmates ([Molecular Nanophotonics Group](https://www.icfo.eu/lang/research/groups/groups-details?group_id=24) @ ICFO) to develop Python skills and it mean to be interactive and collaborative. It will start assuming no prior knowledge about Python, but basic understanding on software installation. 
+This is a Python introduction guide target to scientific applications. The idea is to provide a guide tutorial divided by subjects to aid my workmates @ [ICFO](https://www.icfo.eu/) to learn Python by put hands on. 
+
+## TL;DR  
+
+These guides notebooks are not meant to be a lecture but a collection of illustrative short piece of commented codes, which one can run and modify locally. Details will be provided by recommended further readings on each notebook.
 
 ## Index
 
@@ -31,10 +35,14 @@ docs
 
 5. Inside **docs** explore and run the guide notebooks
 
+## Get Involved
+
+Please don't leave alone! I would like to this to be a collaborative guide. We have different interest application to Python (plot graphs, fitting data, data mining, image analysis, ...) so please help me to complete this puzzle. Write a guide notebook contribution to add here. Send me an [email](mailto:alex.duarte@icfo.eu) with your GitHub username and I will add you as collaborator.
+
 ## Feedback
 
 This guide will continue as long you have interest. Please, write me for questions, comments, contributions, complains, ...
 
-**Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci)            :loudspeaker:
+**Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :loudspeaker:
 
-**Email**: [alex.duarte@icfo.eu](mailto:alex.duarte@icfo.eu)                      :email:
+**Email**: [alex.duarte@icfo.eu](mailto:alex.duarte@icfo.eu)&emsp;&emsp;&emsp;&emsp; :email:
