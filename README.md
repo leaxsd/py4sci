@@ -43,6 +43,6 @@ Please don't leave alone! I would like to this to be a collaborative guide. We h
 
 This guide will continue as long you have interest. Please, write me for questions, comments, contributions, complains, ...
 
-**Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :loudspeaker:
+**Telegram Channel**:  [t.me/py4sci](https://t.me/py4sci) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :loudspeaker:
 
 **Email**: [alex.duarte@icfo.eu](mailto:alex.duarte@icfo.eu)&emsp;&emsp;&emsp;&emsp; :email:
